@@ -1,4 +1,3 @@
-Busch
 Science Building
 40.52392041805956, -74.46412692532003
 Allison Road Classrooms
@@ -15,8 +14,6 @@ Werblin Main Entrance
 40.5188652236655, -74.46008058516078
 Werblin Recreation Center
 40.51873472792063, -74.45988746611171
-
-Livingston
 Busch-Livingston Health Center
 40.523904178679736, -74.44287867116205
 Livingston Plaza
@@ -25,8 +22,6 @@ Livingston Student Center
 40.52392846988213, -74.43647231514156
 Quads
 40.51979637927978, -74.43355227472694
-
-Cook/Doug
 Biel Road
 40.47999374754294, -74.43263912170228
 College Hall
@@ -43,8 +38,6 @@ SoCam Apts (NB)
 40.491997820929114, -74.44311843465293
 SoCam Apts (SB)
 40.49228383375457, -74.44285080652523
-
-College Avenue
 College Avenue Student Center
 40.503182362378446, -74.45189751336393
 Student Activities Center NB
